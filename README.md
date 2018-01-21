@@ -1,1 +1,1 @@
-No library whatsoever, only plain javascript used to create the image gallery slideshow. If you find it useful, please feel free to adopt it in your project. After all, I made it watching a video tutorial.
+No library whatsoever, only plain javascript used to create the image gallery slideshow. If you find it useful, please feel free to adopt it in your project. After all, I created it watching a video tutorial from Brad Traversy.
