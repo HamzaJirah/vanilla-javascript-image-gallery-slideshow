@@ -5,5 +5,8 @@ const opacity = 0.4;
 imgs.forEach(img =>img.addEventListener('click', imgClick));
 
 function imgClick(e) {
+  // changed current image to src of clicked image
   current.src = e.target.src;
+
+  // ch
 }
