@@ -14,3 +14,7 @@ body {
 .main-img img, .imgs img {
   width: 100%;
 }
+
+.imgs {
+  display: grid;
+}
